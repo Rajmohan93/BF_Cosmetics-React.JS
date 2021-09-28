@@ -1,0 +1,90 @@
+/* Section Navigation Bar */
+
+.navbar-header {
+    background-color: #020000 !important;
+}
+
+.navbar-menu-links {
+    color: #F6BFC4 !important;
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+.navbar-menu-links-icons {
+    color: #F6BFC4 !important;
+    font-size: 24px;
+    margin-left: 25px;
+}
+
+
+/* Section Vertical Line */
+
+.vline {
+    box-sizing: border-box;
+    border-left: 1px solid #C4C4C4;
+}
+
+
+/* Section Footer */
+
+.section-footer,
+.copyright {
+    background-color: #F6BFC4;
+}
+
+.copyright {
+    text-align: center;
+}
+
+
+/* Button */
+
+
+/* Cart Button */
+
+.cart-btn {
+    padding: 15px;
+    background-color: #F6BFC4;
+    color: black;
+    border: 1px solid #F6BFC4;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.cart-btn:hover {
+    padding: 15px;
+    background-color: #F6BFC4;
+    color: black;
+    border: 1px solid #F6BFC4;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+/* Page Button */
+
+.page-btn button {
+    padding: 10px;
+    background-color: #F6BFC4;
+    color: black;
+    border: 1px solid #F6BFC4;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 475px;
+    padding-right: 475px;
+}
+
+.page-btn button:hover {
+    padding: 10px;
+    background-color: #F6BFC4;
+    color: black;
+    border: 1px solid #F6BFC4;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 475px;
+    padding-right: 475px;
+}
